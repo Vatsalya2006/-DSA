@@ -1,8 +1,8 @@
-#DSA Problem Solving Repository
+## DSA Problem Solving Repository
 
 This repository contains my solutions to **Data Structures and Algorithms (DSA)** problems from various platforms like LeetCode, CodeChef, Codeforces, and GeeksforGeeks.
 
-### 🔹 What you’ll find here:
+### What you’ll find here:
 
 * Well-structured solutions in **Java**
 * Problems categorized by topics: Arrays, Strings, Linked Lists, Trees, Graphs, DP, Greedy, etc.
