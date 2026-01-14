@@ -1,5 +1,25 @@
-# DSA
-A code repository containing code of the problems I solve on Data Structure and Algorithms.
+# Here’s a clean, short, and professional README brief you can directly use or slightly customize for your GitHub repo:
+
+---
+
+##  DSA Problem Solving Repository
+
+This repository contains my solutions to **Data Structures and Algorithms (DSA)** problems from various platforms like LeetCode, CodeChef, Codeforces, and GeeksforGeeks.
+
+### 🔹 What you’ll find here:
+
+* Well-structured solutions in **Java**
+* Problems categorized by topics: Arrays, Strings, Linked Lists, Trees, Graphs, DP, Greedy, etc.
+* Optimized approaches with time & space complexity
+* Clean, readable, and beginner-friendly code
+
+### Purpose
+
+I use this repository to strengthen my problem-solving skills, improve coding efficiency, and prepare for technical interviews.
+
+### Goal
+
+Consistent practice, better logic, and mastering DSA.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
