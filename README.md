@@ -1,8 +1,4 @@
-# Here’s a clean, short, and professional README brief you can directly use or slightly customize for your GitHub repo:
-
----
-
-##  DSA Problem Solving Repository
+#DSA Problem Solving Repository
 
 This repository contains my solutions to **Data Structures and Algorithms (DSA)** problems from various platforms like LeetCode, CodeChef, Codeforces, and GeeksforGeeks.
 
