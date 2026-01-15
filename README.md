@@ -23,6 +23,7 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vatsalya2006/-DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Vatsalya2006/-DSA/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,9 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vatsalya2006/-DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Vatsalya2006/-DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vatsalya2006/-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
