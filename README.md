@@ -29,6 +29,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0035-search-insert-position](https://github.com/Vatsalya2006/-DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Vatsalya2006/-DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -66,4 +67,8 @@ Consistent practice, better logic, and mastering DSA.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Vatsalya2006/-DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
