@@ -31,18 +31,21 @@ Consistent practice, better logic, and mastering DSA.
 | [0088-merge-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vatsalya2006/-DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vatsalya2006/-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Vatsalya2006/-DSA/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vatsalya2006/-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vatsalya2006/-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -62,13 +65,16 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vatsalya2006/-DSA/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vatsalya2006/-DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
