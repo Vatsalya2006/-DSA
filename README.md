@@ -30,6 +30,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vatsalya2006/-DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 ## Hash Table
@@ -37,6 +38,7 @@ Consistent practice, better logic, and mastering DSA.
 | ------- |
 | [0001-two-sum](https://github.com/Vatsalya2006/-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Vatsalya2006/-DSA/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 ## Math
@@ -70,6 +72,7 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -77,4 +80,12 @@ Consistent practice, better logic, and mastering DSA.
 | ------- |
 | [0136-single-number](https://github.com/Vatsalya2006/-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
