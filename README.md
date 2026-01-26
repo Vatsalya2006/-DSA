@@ -33,6 +33,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Vatsalya2006/-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Vatsalya2006/-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Bit Manipulation
 |  |
 | ------- |
