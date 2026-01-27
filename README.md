@@ -34,6 +34,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Vatsalya2006/-DSA/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vatsalya2006/-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ Consistent practice, better logic, and mastering DSA.
 | ------- |
 | [0035-search-insert-position](https://github.com/Vatsalya2006/-DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Vatsalya2006/-DSA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
