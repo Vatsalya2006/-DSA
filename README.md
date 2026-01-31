@@ -31,6 +31,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0088-merge-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vatsalya2006/-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Vatsalya2006/-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0283-move-zeroes) |
@@ -52,6 +53,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0009-palindrome-number](https://github.com/Vatsalya2006/-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vatsalya2006/-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Vatsalya2006/-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -68,6 +70,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vatsalya2006/-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Vatsalya2006/-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
