@@ -29,6 +29,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0033-search-in-rotated-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vatsalya2006/-DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Vatsalya2006/-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vatsalya2006/-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
@@ -71,6 +72,7 @@ Consistent practice, better logic, and mastering DSA.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vatsalya2006/-DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Vatsalya2006/-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Vatsalya2006/-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0283-move-zeroes) |
@@ -84,6 +86,7 @@ Consistent practice, better logic, and mastering DSA.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vatsalya2006/-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
