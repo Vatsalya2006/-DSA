@@ -28,6 +28,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0027-remove-element](https://github.com/Vatsalya2006/-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vatsalya2006/-DSA/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Vatsalya2006/-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vatsalya2006/-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0088-merge-sorted-array) |
@@ -102,6 +103,7 @@ Consistent practice, better logic, and mastering DSA.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vatsalya2006/-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -112,4 +114,8 @@ Consistent practice, better logic, and mastering DSA.
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vatsalya2006/-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3701-compute-alternating-sum](https://github.com/Vatsalya2006/-DSA/tree/master/3701-compute-alternating-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vatsalya2006/-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
