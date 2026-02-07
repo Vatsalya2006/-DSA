@@ -40,6 +40,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vatsalya2006/-DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Vatsalya2006/-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Vatsalya2006/-DSA/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vatsalya2006/-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vatsalya2006/-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -52,6 +53,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Vatsalya2006/-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -120,4 +122,8 @@ Consistent practice, better logic, and mastering DSA.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vatsalya2006/-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vatsalya2006/-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Vatsalya2006/-DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
