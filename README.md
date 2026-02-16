@@ -41,6 +41,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0283-move-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vatsalya2006/-DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Vatsalya2006/-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Vatsalya2006/-DSA/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vatsalya2006/-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vatsalya2006/-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -63,6 +64,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Vatsalya2006/-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
@@ -97,6 +99,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vatsalya2006/-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Bit Manipulation
 |  |
