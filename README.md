@@ -30,6 +30,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0035-search-insert-position](https://github.com/Vatsalya2006/-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vatsalya2006/-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vatsalya2006/-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vatsalya2006/-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ Consistent practice, better logic, and mastering DSA.
 | ------- |
 | [0001-two-sum](https://github.com/Vatsalya2006/-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Vatsalya2006/-DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
@@ -129,4 +131,8 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Vatsalya2006/-DSA/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
