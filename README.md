@@ -28,6 +28,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0027-remove-element](https://github.com/Vatsalya2006/-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vatsalya2006/-DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Vatsalya2006/-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vatsalya2006/-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0073-set-matrix-zeroes) |
@@ -65,6 +66,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0007-reverse-integer](https://github.com/Vatsalya2006/-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vatsalya2006/-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vatsalya2006/-DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Vatsalya2006/-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Vatsalya2006/-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
@@ -136,6 +138,7 @@ Consistent practice, better logic, and mastering DSA.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vatsalya2006/-DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0073-set-matrix-zeroes) |
 ## Union-Find
 |  |
