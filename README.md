@@ -47,6 +47,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0628-maximum-product-of-three-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Vatsalya2006/-DSA/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vatsalya2006/-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vatsalya2006/-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vatsalya2006/-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3701-compute-alternating-sum](https://github.com/Vatsalya2006/-DSA/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
