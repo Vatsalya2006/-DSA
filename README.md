@@ -30,6 +30,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0035-search-insert-position](https://github.com/Vatsalya2006/-DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Vatsalya2006/-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vatsalya2006/-DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Vatsalya2006/-DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vatsalya2006/-DSA/tree/master/0075-sort-colors) |
@@ -125,6 +126,7 @@ Consistent practice, better logic, and mastering DSA.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vatsalya2006/-DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vatsalya2006/-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3701-compute-alternating-sum](https://github.com/Vatsalya2006/-DSA/tree/master/3701-compute-alternating-sum) |
 ## Dynamic Programming
@@ -140,6 +142,7 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vatsalya2006/-DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Vatsalya2006/-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0073-set-matrix-zeroes) |
 ## Union-Find
 |  |
