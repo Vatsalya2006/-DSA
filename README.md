@@ -27,6 +27,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vatsalya2006/-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vatsalya2006/-DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Vatsalya2006/-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vatsalya2006/-DSA/tree/master/0053-maximum-subarray) |
@@ -96,6 +97,7 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vatsalya2006/-DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Vatsalya2006/-DSA/tree/master/0704-binary-search) |
