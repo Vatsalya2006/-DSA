@@ -47,6 +47,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vatsalya2006/-DSA/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vatsalya2006/-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Vatsalya2006/-DSA/tree/master/0704-binary-search) |
@@ -104,6 +105,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vatsalya2006/-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vatsalya2006/-DSA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
