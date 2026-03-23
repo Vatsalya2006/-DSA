@@ -81,6 +81,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0048-rotate-image](https://github.com/Vatsalya2006/-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Vatsalya2006/-DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Vatsalya2006/-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
@@ -147,6 +148,7 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vatsalya2006/-DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Vatsalya2006/-DSA/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vatsalya2006/-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3701-compute-alternating-sum](https://github.com/Vatsalya2006/-DSA/tree/master/3701-compute-alternating-sum) |
 ## Dynamic Programming
@@ -168,4 +170,8 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vatsalya2006/-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vatsalya2006/-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
