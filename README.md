@@ -94,6 +94,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0014-longest-common-prefix](https://github.com/Vatsalya2006/-DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Vatsalya2006/-DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Vatsalya2006/-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Vatsalya2006/-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -194,4 +195,8 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Vatsalya2006/-DSA/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Vatsalya2006/-DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
