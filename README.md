@@ -87,6 +87,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Vatsalya2006/-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Vatsalya2006/-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0058-length-of-last-word](https://github.com/Vatsalya2006/-DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Vatsalya2006/-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vatsalya2006/-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Vatsalya2006/-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -199,4 +201,8 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Vatsalya2006/-DSA/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Vatsalya2006/-DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
