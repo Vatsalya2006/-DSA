@@ -71,6 +71,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0073-set-matrix-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vatsalya2006/-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Vatsalya2006/-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Vatsalya2006/-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +96,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0014-longest-common-prefix](https://github.com/Vatsalya2006/-DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Vatsalya2006/-DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Vatsalya2006/-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Vatsalya2006/-DSA/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Vatsalya2006/-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Vatsalya2006/-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
