@@ -97,6 +97,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0058-length-of-last-word](https://github.com/Vatsalya2006/-DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Vatsalya2006/-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vatsalya2006/-DSA/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/Vatsalya2006/-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vatsalya2006/-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Vatsalya2006/-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -207,4 +208,8 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Vatsalya2006/-DSA/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Vatsalya2006/-DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
