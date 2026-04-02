@@ -46,6 +46,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vatsalya2006/-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vatsalya2006/-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vatsalya2006/-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0169-majority-element](https://github.com/Vatsalya2006/-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vatsalya2006/-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vatsalya2006/-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vatsalya2006/-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Vatsalya2006/-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -227,4 +229,8 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Vatsalya2006/-DSA/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vatsalya2006/-DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
