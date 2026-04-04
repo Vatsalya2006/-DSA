@@ -89,6 +89,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0050-powx-n](https://github.com/Vatsalya2006/-DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Vatsalya2006/-DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Vatsalya2006/-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vatsalya2006/-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Vatsalya2006/-DSA/tree/master/0509-fibonacci-number) |
@@ -157,6 +158,7 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vatsalya2006/-DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Vatsalya2006/-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -206,6 +208,7 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vatsalya2006/-DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Vatsalya2006/-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Vatsalya2006/-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
