@@ -50,6 +50,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0240-search-a-2d-matrix-ii](https://github.com/Vatsalya2006/-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Vatsalya2006/-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Vatsalya2006/-DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vatsalya2006/-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -77,6 +78,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0219-contains-duplicate-ii](https://github.com/Vatsalya2006/-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vatsalya2006/-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Vatsalya2006/-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Vatsalya2006/-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Vatsalya2006/-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -122,6 +124,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0151-reverse-words-in-a-string](https://github.com/Vatsalya2006/-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Vatsalya2006/-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Vatsalya2006/-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vatsalya2006/-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -135,6 +138,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0162-find-peak-element](https://github.com/Vatsalya2006/-DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vatsalya2006/-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Vatsalya2006/-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vatsalya2006/-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vatsalya2006/-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Vatsalya2006/-DSA/tree/master/0875-koko-eating-bananas) |
@@ -151,6 +155,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0217-contains-duplicate](https://github.com/Vatsalya2006/-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vatsalya2006/-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Vatsalya2006/-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Vatsalya2006/-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vatsalya2006/-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
