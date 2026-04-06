@@ -63,6 +63,7 @@ Consistent practice, better logic, and mastering DSA.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vatsalya2006/-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Vatsalya2006/-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vatsalya2006/-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Vatsalya2006/-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vatsalya2006/-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3701-compute-alternating-sum](https://github.com/Vatsalya2006/-DSA/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
@@ -96,6 +97,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Vatsalya2006/-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Vatsalya2006/-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Vatsalya2006/-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
