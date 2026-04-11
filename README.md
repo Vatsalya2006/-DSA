@@ -99,6 +99,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0258-add-digits](https://github.com/Vatsalya2006/-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Vatsalya2006/-DSA/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/Vatsalya2006/-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Vatsalya2006/-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Vatsalya2006/-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
