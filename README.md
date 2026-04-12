@@ -94,6 +94,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0050-powx-n](https://github.com/Vatsalya2006/-DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Vatsalya2006/-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vatsalya2006/-DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Vatsalya2006/-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vatsalya2006/-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vatsalya2006/-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vatsalya2006/-DSA/tree/master/0258-add-digits) |
@@ -199,6 +200,7 @@ Consistent practice, better logic, and mastering DSA.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vatsalya2006/-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Vatsalya2006/-DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Vatsalya2006/-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vatsalya2006/-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Vatsalya2006/-DSA/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
@@ -230,6 +232,7 @@ Consistent practice, better logic, and mastering DSA.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vatsalya2006/-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Vatsalya2006/-DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
