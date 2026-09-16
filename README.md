@@ -105,6 +105,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0628-maximum-product-of-three-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Vatsalya2006/-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Vatsalya2006/-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -231,6 +232,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0050-powx-n](https://github.com/Vatsalya2006/-DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Vatsalya2006/-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Vatsalya2006/-DSA/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
