@@ -120,6 +120,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0451-sort-characters-by-frequency](https://github.com/Vatsalya2006/-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Vatsalya2006/-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vatsalya2006/-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vatsalya2006/-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Vatsalya2006/-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -242,6 +243,7 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Vatsalya2006/-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vatsalya2006/-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -262,4 +264,8 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vatsalya2006/-DSA/tree/master/0219-contains-duplicate-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vatsalya2006/-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
