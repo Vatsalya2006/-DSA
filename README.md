@@ -110,6 +110,7 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vatsalya2006/-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/Vatsalya2006/-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Vatsalya2006/-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vatsalya2006/-DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Vatsalya2006/-DSA/tree/master/0058-length-of-last-word) |
