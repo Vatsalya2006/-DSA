@@ -100,6 +100,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0258-add-digits](https://github.com/Vatsalya2006/-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vatsalya2006/-DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Vatsalya2006/-DSA/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Vatsalya2006/-DSA/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Vatsalya2006/-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Vatsalya2006/-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vatsalya2006/-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -119,6 +120,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0205-isomorphic-strings](https://github.com/Vatsalya2006/-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vatsalya2006/-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vatsalya2006/-DSA/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Vatsalya2006/-DSA/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Vatsalya2006/-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Vatsalya2006/-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vatsalya2006/-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -200,6 +202,7 @@ Consistent practice, better logic, and mastering DSA.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vatsalya2006/-DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Vatsalya2006/-DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Vatsalya2006/-DSA/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vatsalya2006/-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3701-compute-alternating-sum](https://github.com/Vatsalya2006/-DSA/tree/master/3701-compute-alternating-sum) |
 ## Dynamic Programming
