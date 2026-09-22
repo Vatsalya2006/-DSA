@@ -65,6 +65,7 @@ Consistent practice, better logic, and mastering DSA.
 | [1539-kth-missing-positive-number](https://github.com/Vatsalya2006/-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vatsalya2006/-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Vatsalya2006/-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/Vatsalya2006/-DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vatsalya2006/-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3701-compute-alternating-sum](https://github.com/Vatsalya2006/-DSA/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
@@ -205,6 +206,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0054-spiral-matrix](https://github.com/Vatsalya2006/-DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Vatsalya2006/-DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vatsalya2006/-DSA/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Vatsalya2006/-DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vatsalya2006/-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3701-compute-alternating-sum](https://github.com/Vatsalya2006/-DSA/tree/master/3701-compute-alternating-sum) |
 ## Dynamic Programming
