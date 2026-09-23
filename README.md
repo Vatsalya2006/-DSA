@@ -65,6 +65,7 @@ Consistent practice, better logic, and mastering DSA.
 | [1539-kth-missing-positive-number](https://github.com/Vatsalya2006/-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vatsalya2006/-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Vatsalya2006/-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1901-find-a-peak-element-ii](https://github.com/Vatsalya2006/-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Vatsalya2006/-DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vatsalya2006/-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3701-compute-alternating-sum](https://github.com/Vatsalya2006/-DSA/tree/master/3701-compute-alternating-sum) |
@@ -170,6 +171,7 @@ Consistent practice, better logic, and mastering DSA.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vatsalya2006/-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vatsalya2006/-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Vatsalya2006/-DSA/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Vatsalya2006/-DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -229,6 +231,7 @@ Consistent practice, better logic, and mastering DSA.
 | [0073-set-matrix-zeroes](https://github.com/Vatsalya2006/-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vatsalya2006/-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vatsalya2006/-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Vatsalya2006/-DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Union-Find
 |  |
 | ------- |
