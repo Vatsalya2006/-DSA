@@ -282,4 +282,8 @@ Consistent practice, better logic, and mastering DSA.
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vatsalya2006/-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Vatsalya2006/-DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
